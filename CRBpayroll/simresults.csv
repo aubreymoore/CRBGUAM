@@ -1,0 +1,712 @@
+date,name,pay,grant,balance
+20140504,'Iriarte, Ian',786.84,APHIS Biocontrol,9547.16
+20140504,'Bamba, Rochelle',554.86,Forest Service,97451.14
+20140504,'Benavente, Vincent',512.81,Forest Service,96938.33
+20140504,'Bourgeois, Robert',767.17,Forest Service,96171.16
+20140504,'Cabrera, Roland',393.84,Forest Service,95777.32
+20140504,'Crisostomo, Cris',382.56,Forest Service,95394.77
+20140504,'Diego, Derrick',428.71,Forest Service,94966.06
+20140504,'Diego, John',416.92,Forest Service,94549.14
+20140504,'Hara, Marty',423.07,Forest Service,94126.07
+20140504,'Quitugua, Roland',1777.22,Forest Service,92348.85
+20140504,'San Miguel, Raymundo',382.56,Forest Service,91966.30
+20140504,'Somol, Donatus',393.84,Forest Service,91572.46
+20140511,'Iriarte, Ian',786.84,APHIS Biocontrol,8760.33
+20140511,'Bamba, Rochelle',554.86,Forest Service,91017.60
+20140511,'Benavente, Vincent',512.81,Forest Service,90504.78
+20140511,'Bourgeois, Robert',767.17,Forest Service,89737.62
+20140511,'Cabrera, Roland',393.84,Forest Service,89343.78
+20140511,'Crisostomo, Cris',382.56,Forest Service,88961.22
+20140511,'Diego, Derrick',428.71,Forest Service,88532.51
+20140511,'Diego, John',416.92,Forest Service,88115.60
+20140511,'Hara, Marty',423.07,Forest Service,87692.53
+20140511,'Quitugua, Roland',1777.22,Forest Service,85915.31
+20140511,'San Miguel, Raymundo',382.56,Forest Service,85532.75
+20140511,'Somol, Donatus',393.84,Forest Service,85138.91
+20140518,'Iriarte, Ian',786.84,APHIS Biocontrol,7973.49
+20140518,'Bamba, Rochelle',554.86,Forest Service,84584.05
+20140518,'Benavente, Vincent',512.81,Forest Service,84071.24
+20140518,'Bourgeois, Robert',767.17,Forest Service,83304.08
+20140518,'Cabrera, Roland',393.84,Forest Service,82910.24
+20140518,'Crisostomo, Cris',382.56,Forest Service,82527.68
+20140518,'Diego, Derrick',428.71,Forest Service,82098.97
+20140518,'Diego, John',416.92,Forest Service,81682.06
+20140518,'Hara, Marty',423.07,Forest Service,81258.99
+20140518,'Quitugua, Roland',1777.22,Forest Service,79481.77
+20140518,'San Miguel, Raymundo',382.56,Forest Service,79099.21
+20140518,'Somol, Donatus',393.84,Forest Service,78705.37
+20140525,'Iriarte, Ian',786.84,APHIS Biocontrol,7186.66
+20140525,'Bamba, Rochelle',554.86,Forest Service,78150.51
+20140525,'Benavente, Vincent',512.81,Forest Service,77637.70
+20140525,'Bourgeois, Robert',767.17,Forest Service,76870.53
+20140525,'Cabrera, Roland',393.84,Forest Service,76476.70
+20140525,'Crisostomo, Cris',382.56,Forest Service,76094.14
+20140525,'Diego, Derrick',428.71,Forest Service,75665.43
+20140525,'Diego, John',416.92,Forest Service,75248.51
+20140525,'Hara, Marty',423.07,Forest Service,74825.44
+20140525,'Quitugua, Roland',1777.22,Forest Service,73048.22
+20140525,'San Miguel, Raymundo',382.56,Forest Service,72665.67
+20140525,'Somol, Donatus',393.84,Forest Service,72271.83
+20140601,'Iriarte, Ian',786.84,APHIS Biocontrol,6399.82
+20140601,'Bamba, Rochelle',554.86,Forest Service,71716.97
+20140601,'Benavente, Vincent',512.81,Forest Service,71204.16
+20140601,'Bourgeois, Robert',767.17,Forest Service,70436.99
+20140601,'Cabrera, Roland',393.84,Forest Service,70043.15
+20140601,'Crisostomo, Cris',382.56,Forest Service,69660.60
+20140601,'Diego, Derrick',428.71,Forest Service,69231.89
+20140601,'Diego, John',416.92,Forest Service,68814.97
+20140601,'Hara, Marty',423.07,Forest Service,68391.90
+20140601,'Quitugua, Roland',1777.22,Forest Service,66614.68
+20140601,'San Miguel, Raymundo',382.56,Forest Service,66232.13
+20140601,'Somol, Donatus',393.84,Forest Service,65838.29
+20140608,'Iriarte, Ian',786.84,APHIS Biocontrol,5612.98
+20140608,'Bamba, Rochelle',554.86,Forest Service,65283.42
+20140608,'Benavente, Vincent',512.81,Forest Service,64770.61
+20140608,'Bourgeois, Robert',767.17,Forest Service,64003.45
+20140608,'Cabrera, Roland',393.84,Forest Service,63609.61
+20140608,'Crisostomo, Cris',382.56,Forest Service,63227.05
+20140608,'Diego, Derrick',428.71,Forest Service,62798.34
+20140608,'Diego, John',416.92,Forest Service,62381.43
+20140608,'Hara, Marty',423.07,Forest Service,61958.36
+20140608,'Quitugua, Roland',1777.22,Forest Service,60181.14
+20140608,'San Miguel, Raymundo',382.56,Forest Service,59798.58
+20140608,'Somol, Donatus',393.84,Forest Service,59404.74
+20140615,'Iriarte, Ian',786.84,APHIS Biocontrol,4826.15
+20140615,'Bamba, Rochelle',554.86,Forest Service,58849.88
+20140615,'Benavente, Vincent',512.81,Forest Service,58337.07
+20140615,'Bourgeois, Robert',767.17,Forest Service,57569.91
+20140615,'Cabrera, Roland',393.84,Forest Service,57176.07
+20140615,'Crisostomo, Cris',382.56,Forest Service,56793.51
+20140615,'Diego, Derrick',428.71,Forest Service,56364.80
+20140615,'Diego, John',416.92,Forest Service,55947.88
+20140615,'Hara, Marty',423.07,Forest Service,55524.82
+20140615,'Quitugua, Roland',1777.22,Forest Service,53747.60
+20140615,'San Miguel, Raymundo',382.56,Forest Service,53365.04
+20140615,'Somol, Donatus',393.84,Forest Service,52971.20
+20140622,'Iriarte, Ian',786.84,APHIS Biocontrol,4039.31
+20140622,'Bamba, Rochelle',554.86,Forest Service,52416.34
+20140622,'Benavente, Vincent',512.81,Forest Service,51903.53
+20140622,'Bourgeois, Robert',767.17,Forest Service,51136.36
+20140622,'Cabrera, Roland',393.84,Forest Service,50742.52
+20140622,'Crisostomo, Cris',382.56,Forest Service,50359.97
+20140622,'Diego, Derrick',428.71,Forest Service,49931.26
+20140622,'Diego, John',416.92,Forest Service,49514.34
+20140622,'Hara, Marty',423.07,Forest Service,49091.27
+20140622,'Quitugua, Roland',1777.22,Forest Service,47314.05
+20140622,'San Miguel, Raymundo',382.56,Forest Service,46931.50
+20140622,'Somol, Donatus',393.84,Forest Service,46537.66
+20140629,'Iriarte, Ian',786.84,APHIS Biocontrol,3252.47
+20140629,'Bamba, Rochelle',554.86,Forest Service,45982.80
+20140629,'Benavente, Vincent',512.81,Forest Service,45469.99
+20140629,'Bourgeois, Robert',767.17,Forest Service,44702.82
+20140629,'Cabrera, Roland',393.84,Forest Service,44308.98
+20140629,'Crisostomo, Cris',382.56,Forest Service,43926.42
+20140629,'Diego, Derrick',428.71,Forest Service,43497.71
+20140629,'Diego, John',416.92,Forest Service,43080.80
+20140629,'Hara, Marty',423.07,Forest Service,42657.73
+20140629,'Quitugua, Roland',1777.22,Forest Service,40880.51
+20140629,'San Miguel, Raymundo',382.56,Forest Service,40497.95
+20140629,'Somol, Donatus',393.84,Forest Service,40104.12
+20140706,'Iriarte, Ian',786.84,APHIS Biocontrol,2465.64
+20140706,'Bamba, Rochelle',554.86,Forest Service,39549.25
+20140706,'Benavente, Vincent',512.81,Forest Service,39036.44
+20140706,'Bourgeois, Robert',767.17,Forest Service,38269.28
+20140706,'Cabrera, Roland',393.84,Forest Service,37875.44
+20140706,'Crisostomo, Cris',382.56,Forest Service,37492.88
+20140706,'Diego, Derrick',428.71,Forest Service,37064.17
+20140706,'Diego, John',416.92,Forest Service,36647.26
+20140706,'Hara, Marty',423.07,Forest Service,36224.19
+20140706,'Quitugua, Roland',1777.22,Forest Service,34446.97
+20140706,'San Miguel, Raymundo',382.56,Forest Service,34064.41
+20140706,'Somol, Donatus',393.84,Forest Service,33670.57
+20140713,'Iriarte, Ian',786.84,APHIS Biocontrol,1678.80
+20140713,'Bamba, Rochelle',554.86,Forest Service,33115.71
+20140713,'Benavente, Vincent',512.81,Forest Service,32602.90
+20140713,'Bourgeois, Robert',767.17,Forest Service,31835.74
+20140713,'Cabrera, Roland',393.84,Forest Service,31441.90
+20140713,'Crisostomo, Cris',382.56,Forest Service,31059.34
+20140713,'Diego, Derrick',428.71,Forest Service,30630.63
+20140713,'Diego, John',416.92,Forest Service,30213.71
+20140713,'Hara, Marty',423.07,Forest Service,29790.64
+20140713,'Quitugua, Roland',1777.22,Forest Service,28013.43
+20140713,'San Miguel, Raymundo',382.56,Forest Service,27630.87
+20140713,'Somol, Donatus',393.84,Forest Service,27237.03
+20140720,'Iriarte, Ian',786.84,APHIS Biocontrol,891.97
+20140720,'Bamba, Rochelle',554.86,Forest Service,26682.17
+20140720,'Benavente, Vincent',512.81,Forest Service,26169.36
+20140720,'Bourgeois, Robert',767.17,Forest Service,25402.19
+20140720,'Cabrera, Roland',393.84,Forest Service,25008.35
+20140720,'Crisostomo, Cris',382.56,Forest Service,24625.80
+20140720,'Diego, Derrick',428.71,Forest Service,24197.09
+20140720,'Diego, John',416.92,Forest Service,23780.17
+20140720,'Hara, Marty',423.07,Forest Service,23357.10
+20140720,'Quitugua, Roland',1777.22,Forest Service,21579.88
+20140720,'San Miguel, Raymundo',382.56,Forest Service,21197.33
+20140720,'Somol, Donatus',393.84,Forest Service,20803.49
+20140727,'Iriarte, Ian',786.84,APHIS Biocontrol,105.13
+20140727,'Iriarte, Ian',786.84,APHIS Metarhizium,44213.16
+20140727,'Bamba, Rochelle',554.86,Forest Service,20248.63
+20140727,'Benavente, Vincent',512.81,Forest Service,19735.81
+20140727,'Bourgeois, Robert',767.17,Forest Service,18968.65
+20140727,'Cabrera, Roland',393.84,Forest Service,18574.81
+20140727,'Crisostomo, Cris',382.56,Forest Service,18192.25
+20140727,'Diego, Derrick',428.71,Forest Service,17763.54
+20140727,'Diego, John',416.92,Forest Service,17346.63
+20140727,'Hara, Marty',423.07,Forest Service,16923.56
+20140727,'Quitugua, Roland',1777.22,Forest Service,15146.34
+20140727,'San Miguel, Raymundo',382.56,Forest Service,14763.78
+20140727,'Somol, Donatus',393.84,Forest Service,14369.94
+20140803,'Iriarte, Ian',786.84,APHIS Metarhizium,43426.33
+20140803,'Bamba, Rochelle',554.86,Forest Service,13815.08
+20140803,'Benavente, Vincent',512.81,Forest Service,13302.27
+20140803,'Bourgeois, Robert',767.17,Forest Service,12535.11
+20140803,'Cabrera, Roland',393.84,Forest Service,12141.27
+20140803,'Crisostomo, Cris',382.56,Forest Service,11758.71
+20140803,'Diego, Derrick',428.71,Forest Service,11330.00
+20140803,'Diego, John',416.92,Forest Service,10913.09
+20140803,'Hara, Marty',423.07,Forest Service,10490.02
+20140803,'Quitugua, Roland',1777.22,Forest Service,8712.80
+20140803,'San Miguel, Raymundo',382.56,Forest Service,8330.24
+20140803,'Somol, Donatus',393.84,Forest Service,7936.40
+20140810,'Iriarte, Ian',786.84,APHIS Metarhizium,42639.49
+20140810,'Bamba, Rochelle',554.86,Forest Service,7381.54
+20140810,'Benavente, Vincent',512.81,Forest Service,6868.73
+20140810,'Bourgeois, Robert',767.17,Forest Service,6101.56
+20140810,'Cabrera, Roland',393.84,Forest Service,5707.73
+20140810,'Crisostomo, Cris',382.56,Forest Service,5325.17
+20140810,'Diego, Derrick',428.71,Forest Service,4896.46
+20140810,'Diego, John',416.92,Forest Service,4479.54
+20140810,'Hara, Marty',423.07,Forest Service,4056.47
+20140810,'Quitugua, Roland',1777.22,Forest Service,2279.26
+20140810,'San Miguel, Raymundo',382.56,Forest Service,1896.70
+20140810,'Somol, Donatus',393.84,Forest Service,1502.86
+20140817,'Iriarte, Ian',786.84,APHIS Metarhizium,41852.66
+20140817,'Bamba, Rochelle',554.86,Forest Service,948.00
+20140817,'Benavente, Vincent',512.81,Forest Service,435.19
+20140817,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,87972.83
+20140817,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,87579.00
+20140817,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,87196.44
+20140817,'Diego, Derrick',428.71,APHIS Farm Bill RQ,86767.73
+20140817,'Diego, John',416.92,APHIS Farm Bill RQ,86350.81
+20140817,'Hara, Marty',423.07,APHIS Farm Bill RQ,85927.74
+20140817,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,84150.53
+20140817,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,83767.97
+20140817,'Somol, Donatus',393.84,APHIS Farm Bill RQ,83374.13
+20140824,'Iriarte, Ian',786.84,APHIS Metarhizium,41065.82
+20140824,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,82819.27
+20140824,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,82306.46
+20140824,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,81539.29
+20140824,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,81145.45
+20140824,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,80762.90
+20140824,'Diego, Derrick',428.71,APHIS Farm Bill RQ,80334.19
+20140824,'Diego, John',416.92,APHIS Farm Bill RQ,79917.27
+20140824,'Hara, Marty',423.07,APHIS Farm Bill RQ,79494.20
+20140824,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,77716.98
+20140824,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,77334.43
+20140824,'Somol, Donatus',393.84,APHIS Farm Bill RQ,76940.59
+20140831,'Iriarte, Ian',786.84,APHIS Metarhizium,40278.98
+20140831,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,76385.73
+20140831,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,75872.91
+20140831,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,75105.75
+20140831,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,74711.91
+20140831,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,74329.35
+20140831,'Diego, Derrick',428.71,APHIS Farm Bill RQ,73900.64
+20140831,'Diego, John',416.92,APHIS Farm Bill RQ,73483.73
+20140831,'Hara, Marty',423.07,APHIS Farm Bill RQ,73060.66
+20140831,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,71283.44
+20140831,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,70900.88
+20140831,'Somol, Donatus',393.84,APHIS Farm Bill RQ,70507.04
+20140907,'Iriarte, Ian',786.84,APHIS Metarhizium,39492.15
+20140907,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,69952.18
+20140907,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,69439.37
+20140907,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,68672.21
+20140907,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,68278.37
+20140907,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,67895.81
+20140907,'Diego, Derrick',428.71,APHIS Farm Bill RQ,67467.10
+20140907,'Diego, John',416.92,APHIS Farm Bill RQ,67050.19
+20140907,'Hara, Marty',423.07,APHIS Farm Bill RQ,66627.12
+20140907,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,64849.90
+20140907,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,64467.34
+20140907,'Somol, Donatus',393.84,APHIS Farm Bill RQ,64073.50
+20140914,'Iriarte, Ian',786.84,APHIS Metarhizium,38705.31
+20140914,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,63518.64
+20140914,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,63005.83
+20140914,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,62238.66
+20140914,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,61844.83
+20140914,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,61462.27
+20140914,'Diego, Derrick',428.71,APHIS Farm Bill RQ,61033.56
+20140914,'Diego, John',416.92,APHIS Farm Bill RQ,60616.64
+20140914,'Hara, Marty',423.07,APHIS Farm Bill RQ,60193.57
+20140914,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,58416.35
+20140914,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,58033.80
+20140914,'Somol, Donatus',393.84,APHIS Farm Bill RQ,57639.96
+20140921,'Iriarte, Ian',786.84,APHIS Metarhizium,37918.47
+20140921,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,57085.10
+20140921,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,56572.29
+20140921,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,55805.12
+20140921,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,55411.28
+20140921,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,55028.73
+20140921,'Diego, Derrick',428.71,APHIS Farm Bill RQ,54600.02
+20140921,'Diego, John',416.92,APHIS Farm Bill RQ,54183.10
+20140921,'Hara, Marty',423.07,APHIS Farm Bill RQ,53760.03
+20140921,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,51982.81
+20140921,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,51600.26
+20140921,'Somol, Donatus',393.84,APHIS Farm Bill RQ,51206.42
+20140928,'Iriarte, Ian',786.84,APHIS Metarhizium,37131.64
+20140928,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,50651.55
+20140928,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,50138.74
+20140928,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,49371.58
+20140928,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,48977.74
+20140928,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,48595.18
+20140928,'Diego, Derrick',428.71,APHIS Farm Bill RQ,48166.47
+20140928,'Diego, John',416.92,APHIS Farm Bill RQ,47749.56
+20140928,'Hara, Marty',423.07,APHIS Farm Bill RQ,47326.49
+20140928,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,45549.27
+20140928,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,45166.71
+20140928,'Somol, Donatus',393.84,APHIS Farm Bill RQ,44772.87
+20141005,'Iriarte, Ian',786.84,APHIS Metarhizium,36344.80
+20141005,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,44218.01
+20141005,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,43705.20
+20141005,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,42938.04
+20141005,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,42544.20
+20141005,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,42161.64
+20141005,'Diego, Derrick',428.71,APHIS Farm Bill RQ,41732.93
+20141005,'Diego, John',416.92,APHIS Farm Bill RQ,41316.01
+20141005,'Hara, Marty',423.07,APHIS Farm Bill RQ,40892.95
+20141005,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,39115.73
+20141005,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,38733.17
+20141005,'Somol, Donatus',393.84,APHIS Farm Bill RQ,38339.33
+20141012,'Iriarte, Ian',786.84,APHIS Metarhizium,35557.97
+20141012,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,37784.47
+20141012,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,37271.66
+20141012,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,36504.49
+20141012,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,36110.65
+20141012,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,35728.10
+20141012,'Diego, Derrick',428.71,APHIS Farm Bill RQ,35299.39
+20141012,'Diego, John',416.92,APHIS Farm Bill RQ,34882.47
+20141012,'Hara, Marty',423.07,APHIS Farm Bill RQ,34459.40
+20141012,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,32682.18
+20141012,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,32299.63
+20141012,'Somol, Donatus',393.84,APHIS Farm Bill RQ,31905.79
+20141019,'Iriarte, Ian',786.84,APHIS Metarhizium,34771.13
+20141019,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,31350.93
+20141019,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,30838.12
+20141019,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,30070.95
+20141019,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,29677.11
+20141019,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,29294.55
+20141019,'Diego, Derrick',428.71,APHIS Farm Bill RQ,28865.84
+20141019,'Diego, John',416.92,APHIS Farm Bill RQ,28448.93
+20141019,'Hara, Marty',423.07,APHIS Farm Bill RQ,28025.86
+20141019,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,26248.64
+20141019,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,25866.08
+20141019,'Somol, Donatus',393.84,APHIS Farm Bill RQ,25472.25
+20141026,'Iriarte, Ian',786.84,APHIS Metarhizium,33984.29
+20141026,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,24917.38
+20141026,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,24404.57
+20141026,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,23637.41
+20141026,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,23243.57
+20141026,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,22861.01
+20141026,'Diego, Derrick',428.71,APHIS Farm Bill RQ,22432.30
+20141026,'Diego, John',416.92,APHIS Farm Bill RQ,22015.39
+20141026,'Hara, Marty',423.07,APHIS Farm Bill RQ,21592.32
+20141026,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,19815.10
+20141026,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,19432.54
+20141026,'Somol, Donatus',393.84,APHIS Farm Bill RQ,19038.70
+20141102,'Iriarte, Ian',786.84,APHIS Metarhizium,33197.46
+20141102,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,18483.84
+20141102,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,17971.03
+20141102,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,17203.86
+20141102,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,16810.03
+20141102,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,16427.47
+20141102,'Diego, Derrick',428.71,APHIS Farm Bill RQ,15998.76
+20141102,'Diego, John',416.92,APHIS Farm Bill RQ,15581.84
+20141102,'Hara, Marty',423.07,APHIS Farm Bill RQ,15158.77
+20141102,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,13381.56
+20141102,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,12999.00
+20141102,'Somol, Donatus',393.84,APHIS Farm Bill RQ,12605.16
+20141109,'Iriarte, Ian',786.84,APHIS Metarhizium,32410.62
+20141109,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,12050.30
+20141109,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,11537.49
+20141109,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,10770.32
+20141109,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,10376.48
+20141109,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,9993.93
+20141109,'Diego, Derrick',428.71,APHIS Farm Bill RQ,9565.22
+20141109,'Diego, John',416.92,APHIS Farm Bill RQ,9148.30
+20141109,'Hara, Marty',423.07,APHIS Farm Bill RQ,8725.23
+20141109,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,6948.01
+20141109,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,6565.46
+20141109,'Somol, Donatus',393.84,APHIS Farm Bill RQ,6171.62
+20141116,'Iriarte, Ian',786.84,APHIS Metarhizium,31623.79
+20141116,'Bamba, Rochelle',554.86,APHIS Farm Bill RQ,5616.76
+20141116,'Benavente, Vincent',512.81,APHIS Farm Bill RQ,5103.94
+20141116,'Bourgeois, Robert',767.17,APHIS Farm Bill RQ,4336.78
+20141116,'Cabrera, Roland',393.84,APHIS Farm Bill RQ,3942.94
+20141116,'Crisostomo, Cris',382.56,APHIS Farm Bill RQ,3560.38
+20141116,'Diego, Derrick',428.71,APHIS Farm Bill RQ,3131.67
+20141116,'Diego, John',416.92,APHIS Farm Bill RQ,2714.76
+20141116,'Hara, Marty',423.07,APHIS Farm Bill RQ,2291.69
+20141116,'Quitugua, Roland',1777.22,APHIS Farm Bill RQ,514.47
+20141116,'San Miguel, Raymundo',382.56,APHIS Farm Bill RQ,131.91
+20141116,'Somol, Donatus',393.84,APHIS Farm Bill RQ,-261.93
+20141123,'Iriarte, Ian',786.84,APHIS Metarhizium,30836.95
+20141123,'Benavente, Vincent',512.81,APHIS Farm Bill RC,123487.19
+20141123,'Cabrera, Roland',393.84,APHIS Farm Bill RC,123093.35
+20141123,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,122710.79
+20141123,'Diego, Derrick',428.71,APHIS Farm Bill RC,122282.08
+20141123,'Diego, John',416.92,APHIS Farm Bill RC,121865.17
+20141123,'Hara, Marty',423.07,APHIS Farm Bill RC,121442.10
+20141123,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,121059.54
+20141123,'Somol, Donatus',393.84,APHIS Farm Bill RC,120665.70
+20141123,'Quitugua, Roland',1777.22,GovGuam,29222.78
+20141123,'Bourgeois, Robert',767.17,APHIS Metarhizium,30069.78
+20141123,'Bamba, Rochelle',554.86,GovGuam,28667.92
+20141130,'Iriarte, Ian',786.84,APHIS Metarhizium,29282.95
+20141130,'Benavente, Vincent',512.81,APHIS Farm Bill RC,120152.89
+20141130,'Cabrera, Roland',393.84,APHIS Farm Bill RC,119759.05
+20141130,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,119376.50
+20141130,'Diego, Derrick',428.71,APHIS Farm Bill RC,118947.79
+20141130,'Diego, John',416.92,APHIS Farm Bill RC,118530.87
+20141130,'Hara, Marty',423.07,APHIS Farm Bill RC,118107.80
+20141130,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,117725.24
+20141130,'Somol, Donatus',393.84,APHIS Farm Bill RC,117331.41
+20141130,'Quitugua, Roland',1777.22,GovGuam,26890.70
+20141130,'Bourgeois, Robert',767.17,APHIS Metarhizium,28515.78
+20141130,'Bamba, Rochelle',554.86,GovGuam,26335.84
+20141207,'Iriarte, Ian',786.84,APHIS Metarhizium,27728.95
+20141207,'Benavente, Vincent',512.81,APHIS Farm Bill RC,116818.59
+20141207,'Cabrera, Roland',393.84,APHIS Farm Bill RC,116424.76
+20141207,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,116042.20
+20141207,'Diego, Derrick',428.71,APHIS Farm Bill RC,115613.49
+20141207,'Diego, John',416.92,APHIS Farm Bill RC,115196.57
+20141207,'Hara, Marty',423.07,APHIS Farm Bill RC,114773.50
+20141207,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,114390.95
+20141207,'Somol, Donatus',393.84,APHIS Farm Bill RC,113997.11
+20141207,'Quitugua, Roland',1777.22,GovGuam,24558.62
+20141207,'Bourgeois, Robert',767.17,APHIS Metarhizium,26961.78
+20141207,'Bamba, Rochelle',554.86,GovGuam,24003.76
+20141214,'Iriarte, Ian',786.84,APHIS Metarhizium,26174.94
+20141214,'Benavente, Vincent',512.81,APHIS Farm Bill RC,113484.30
+20141214,'Cabrera, Roland',393.84,APHIS Farm Bill RC,113090.46
+20141214,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,112707.90
+20141214,'Diego, Derrick',428.71,APHIS Farm Bill RC,112279.19
+20141214,'Diego, John',416.92,APHIS Farm Bill RC,111862.28
+20141214,'Hara, Marty',423.07,APHIS Farm Bill RC,111439.21
+20141214,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,111056.65
+20141214,'Somol, Donatus',393.84,APHIS Farm Bill RC,110662.81
+20141214,'Quitugua, Roland',1777.22,GovGuam,22226.54
+20141214,'Bourgeois, Robert',767.17,APHIS Metarhizium,25407.78
+20141214,'Bamba, Rochelle',554.86,GovGuam,21671.68
+20141221,'Iriarte, Ian',786.84,APHIS Metarhizium,24620.94
+20141221,'Benavente, Vincent',512.81,APHIS Farm Bill RC,110150.00
+20141221,'Cabrera, Roland',393.84,APHIS Farm Bill RC,109756.16
+20141221,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,109373.60
+20141221,'Diego, Derrick',428.71,APHIS Farm Bill RC,108944.89
+20141221,'Diego, John',416.92,APHIS Farm Bill RC,108527.98
+20141221,'Hara, Marty',423.07,APHIS Farm Bill RC,108104.91
+20141221,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,107722.35
+20141221,'Somol, Donatus',393.84,APHIS Farm Bill RC,107328.51
+20141221,'Quitugua, Roland',1777.22,GovGuam,19894.46
+20141221,'Bourgeois, Robert',767.17,APHIS Metarhizium,23853.78
+20141221,'Bamba, Rochelle',554.86,GovGuam,19339.60
+20141228,'Iriarte, Ian',786.84,APHIS Metarhizium,23066.94
+20141228,'Benavente, Vincent',512.81,APHIS Farm Bill RC,106815.70
+20141228,'Cabrera, Roland',393.84,APHIS Farm Bill RC,106421.86
+20141228,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,106039.31
+20141228,'Diego, Derrick',428.71,APHIS Farm Bill RC,105610.60
+20141228,'Diego, John',416.92,APHIS Farm Bill RC,105193.68
+20141228,'Hara, Marty',423.07,APHIS Farm Bill RC,104770.61
+20141228,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,104388.06
+20141228,'Somol, Donatus',393.84,APHIS Farm Bill RC,103994.22
+20141228,'Quitugua, Roland',1777.22,GovGuam,17562.38
+20141228,'Bourgeois, Robert',767.17,APHIS Metarhizium,22299.78
+20141228,'Bamba, Rochelle',554.86,GovGuam,17007.52
+20150104,'Iriarte, Ian',786.84,APHIS Metarhizium,21512.94
+20150104,'Benavente, Vincent',512.81,APHIS Farm Bill RC,103481.41
+20150104,'Cabrera, Roland',393.84,APHIS Farm Bill RC,103087.57
+20150104,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,102705.01
+20150104,'Diego, Derrick',428.71,APHIS Farm Bill RC,102276.30
+20150104,'Diego, John',416.92,APHIS Farm Bill RC,101859.39
+20150104,'Hara, Marty',423.07,APHIS Farm Bill RC,101436.32
+20150104,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,101053.76
+20150104,'Somol, Donatus',393.84,APHIS Farm Bill RC,100659.92
+20150104,'Quitugua, Roland',1777.22,GovGuam,15230.30
+20150104,'Bourgeois, Robert',767.17,APHIS Metarhizium,20745.78
+20150104,'Bamba, Rochelle',554.86,GovGuam,14675.44
+20150111,'Iriarte, Ian',786.84,APHIS Metarhizium,19958.94
+20150111,'Benavente, Vincent',512.81,APHIS Farm Bill RC,100147.11
+20150111,'Cabrera, Roland',393.84,APHIS Farm Bill RC,99753.27
+20150111,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,99370.71
+20150111,'Diego, Derrick',428.71,APHIS Farm Bill RC,98942.00
+20150111,'Diego, John',416.92,APHIS Farm Bill RC,98525.09
+20150111,'Hara, Marty',423.07,APHIS Farm Bill RC,98102.02
+20150111,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,97719.46
+20150111,'Somol, Donatus',393.84,APHIS Farm Bill RC,97325.62
+20150111,'Quitugua, Roland',1777.22,GovGuam,12898.22
+20150111,'Bourgeois, Robert',767.17,APHIS Metarhizium,19191.77
+20150111,'Bamba, Rochelle',554.86,GovGuam,12343.36
+20150118,'Iriarte, Ian',786.84,APHIS Metarhizium,18404.94
+20150118,'Benavente, Vincent',512.81,APHIS Farm Bill RC,96812.81
+20150118,'Cabrera, Roland',393.84,APHIS Farm Bill RC,96418.97
+20150118,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,96036.42
+20150118,'Diego, Derrick',428.71,APHIS Farm Bill RC,95607.71
+20150118,'Diego, John',416.92,APHIS Farm Bill RC,95190.79
+20150118,'Hara, Marty',423.07,APHIS Farm Bill RC,94767.72
+20150118,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,94385.16
+20150118,'Somol, Donatus',393.84,APHIS Farm Bill RC,93991.33
+20150118,'Quitugua, Roland',1777.22,GovGuam,10566.14
+20150118,'Bourgeois, Robert',767.17,APHIS Metarhizium,17637.77
+20150118,'Bamba, Rochelle',554.86,GovGuam,10011.28
+20150125,'Iriarte, Ian',786.84,APHIS Metarhizium,16850.94
+20150125,'Benavente, Vincent',512.81,APHIS Farm Bill RC,93478.51
+20150125,'Cabrera, Roland',393.84,APHIS Farm Bill RC,93084.68
+20150125,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,92702.12
+20150125,'Diego, Derrick',428.71,APHIS Farm Bill RC,92273.41
+20150125,'Diego, John',416.92,APHIS Farm Bill RC,91856.49
+20150125,'Hara, Marty',423.07,APHIS Farm Bill RC,91433.42
+20150125,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,91050.87
+20150125,'Somol, Donatus',393.84,APHIS Farm Bill RC,90657.03
+20150125,'Quitugua, Roland',1777.22,GovGuam,8234.06
+20150125,'Bourgeois, Robert',767.17,APHIS Metarhizium,16083.77
+20150125,'Bamba, Rochelle',554.86,GovGuam,7679.20
+20150201,'Iriarte, Ian',786.84,APHIS Metarhizium,15296.93
+20150201,'Benavente, Vincent',512.81,APHIS Farm Bill RC,90144.22
+20150201,'Cabrera, Roland',393.84,APHIS Farm Bill RC,89750.38
+20150201,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,89367.82
+20150201,'Diego, Derrick',428.71,APHIS Farm Bill RC,88939.11
+20150201,'Diego, John',416.92,APHIS Farm Bill RC,88522.20
+20150201,'Hara, Marty',423.07,APHIS Farm Bill RC,88099.13
+20150201,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,87716.57
+20150201,'Somol, Donatus',393.84,APHIS Farm Bill RC,87322.73
+20150201,'Quitugua, Roland',1777.22,GovGuam,5901.98
+20150201,'Bourgeois, Robert',767.17,APHIS Metarhizium,14529.77
+20150201,'Bamba, Rochelle',554.86,GovGuam,5347.12
+20150208,'Iriarte, Ian',786.84,APHIS Metarhizium,13742.93
+20150208,'Benavente, Vincent',512.81,APHIS Farm Bill RC,86809.92
+20150208,'Cabrera, Roland',393.84,APHIS Farm Bill RC,86416.08
+20150208,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,86033.52
+20150208,'Diego, Derrick',428.71,APHIS Farm Bill RC,85604.81
+20150208,'Diego, John',416.92,APHIS Farm Bill RC,85187.90
+20150208,'Hara, Marty',423.07,APHIS Farm Bill RC,84764.83
+20150208,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,84382.27
+20150208,'Somol, Donatus',393.84,APHIS Farm Bill RC,83988.43
+20150208,'Quitugua, Roland',1777.22,GovGuam,3569.90
+20150208,'Bourgeois, Robert',767.17,APHIS Metarhizium,12975.77
+20150208,'Bamba, Rochelle',554.86,GovGuam,3015.04
+20150215,'Iriarte, Ian',786.84,APHIS Metarhizium,12188.93
+20150215,'Benavente, Vincent',512.81,APHIS Farm Bill RC,83475.62
+20150215,'Cabrera, Roland',393.84,APHIS Farm Bill RC,83081.78
+20150215,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,82699.23
+20150215,'Diego, Derrick',428.71,APHIS Farm Bill RC,82270.52
+20150215,'Diego, John',416.92,APHIS Farm Bill RC,81853.60
+20150215,'Hara, Marty',423.07,APHIS Farm Bill RC,81430.53
+20150215,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,81047.98
+20150215,'Somol, Donatus',393.84,APHIS Farm Bill RC,80654.14
+20150215,'Quitugua, Roland',1777.22,GovGuam,1237.82
+20150215,'Bourgeois, Robert',767.17,APHIS Metarhizium,11421.77
+20150215,'Bamba, Rochelle',554.86,GovGuam,682.96
+20150222,'Iriarte, Ian',786.84,APHIS Metarhizium,10634.93
+20150222,'Benavente, Vincent',512.81,APHIS Farm Bill RC,80141.33
+20150222,'Cabrera, Roland',393.84,APHIS Farm Bill RC,79747.49
+20150222,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,79364.93
+20150222,'Diego, Derrick',428.71,APHIS Farm Bill RC,78936.22
+20150222,'Diego, John',416.92,APHIS Farm Bill RC,78519.31
+20150222,'Hara, Marty',423.07,APHIS Farm Bill RC,78096.24
+20150222,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,77713.68
+20150222,'Somol, Donatus',393.84,APHIS Farm Bill RC,77319.84
+20150222,'Bourgeois, Robert',767.17,APHIS Metarhizium,9867.77
+20150301,'Iriarte, Ian',786.84,APHIS Metarhizium,9080.93
+20150301,'Benavente, Vincent',512.81,APHIS Farm Bill RC,76807.03
+20150301,'Cabrera, Roland',393.84,APHIS Farm Bill RC,76413.19
+20150301,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,76030.63
+20150301,'Diego, Derrick',428.71,APHIS Farm Bill RC,75601.92
+20150301,'Diego, John',416.92,APHIS Farm Bill RC,75185.01
+20150301,'Hara, Marty',423.07,APHIS Farm Bill RC,74761.94
+20150301,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,74379.38
+20150301,'Somol, Donatus',393.84,APHIS Farm Bill RC,73985.54
+20150301,'Bourgeois, Robert',767.17,APHIS Metarhizium,8313.76
+20150308,'Iriarte, Ian',786.84,APHIS Metarhizium,7526.93
+20150308,'Benavente, Vincent',512.81,APHIS Farm Bill RC,73472.73
+20150308,'Cabrera, Roland',393.84,APHIS Farm Bill RC,73078.89
+20150308,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,72696.34
+20150308,'Diego, Derrick',428.71,APHIS Farm Bill RC,72267.63
+20150308,'Diego, John',416.92,APHIS Farm Bill RC,71850.71
+20150308,'Hara, Marty',423.07,APHIS Farm Bill RC,71427.64
+20150308,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,71045.08
+20150308,'Somol, Donatus',393.84,APHIS Farm Bill RC,70651.25
+20150308,'Bourgeois, Robert',767.17,APHIS Metarhizium,6759.76
+20150315,'Iriarte, Ian',786.84,APHIS Metarhizium,5972.93
+20150315,'Benavente, Vincent',512.81,APHIS Farm Bill RC,70138.44
+20150315,'Cabrera, Roland',393.84,APHIS Farm Bill RC,69744.60
+20150315,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,69362.04
+20150315,'Diego, Derrick',428.71,APHIS Farm Bill RC,68933.33
+20150315,'Diego, John',416.92,APHIS Farm Bill RC,68516.41
+20150315,'Hara, Marty',423.07,APHIS Farm Bill RC,68093.34
+20150315,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,67710.79
+20150315,'Somol, Donatus',393.84,APHIS Farm Bill RC,67316.95
+20150315,'Bourgeois, Robert',767.17,APHIS Metarhizium,5205.76
+20150322,'Iriarte, Ian',786.84,APHIS Metarhizium,4418.93
+20150322,'Benavente, Vincent',512.81,APHIS Farm Bill RC,66804.14
+20150322,'Cabrera, Roland',393.84,APHIS Farm Bill RC,66410.30
+20150322,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,66027.74
+20150322,'Diego, Derrick',428.71,APHIS Farm Bill RC,65599.03
+20150322,'Diego, John',416.92,APHIS Farm Bill RC,65182.12
+20150322,'Hara, Marty',423.07,APHIS Farm Bill RC,64759.05
+20150322,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,64376.49
+20150322,'Somol, Donatus',393.84,APHIS Farm Bill RC,63982.65
+20150322,'Bourgeois, Robert',767.17,APHIS Metarhizium,3651.76
+20150329,'Iriarte, Ian',786.84,APHIS Metarhizium,2864.92
+20150329,'Benavente, Vincent',512.81,APHIS Farm Bill RC,63469.84
+20150329,'Cabrera, Roland',393.84,APHIS Farm Bill RC,63076.00
+20150329,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,62693.44
+20150329,'Diego, Derrick',428.71,APHIS Farm Bill RC,62264.73
+20150329,'Diego, John',416.92,APHIS Farm Bill RC,61847.82
+20150329,'Hara, Marty',423.07,APHIS Farm Bill RC,61424.75
+20150329,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,61042.19
+20150329,'Somol, Donatus',393.84,APHIS Farm Bill RC,60648.35
+20150329,'Bourgeois, Robert',767.17,APHIS Metarhizium,2097.76
+20150405,'Iriarte, Ian',786.84,APHIS Metarhizium,1310.92
+20150405,'Benavente, Vincent',512.81,APHIS Farm Bill RC,60135.54
+20150405,'Cabrera, Roland',393.84,APHIS Farm Bill RC,59741.70
+20150405,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,59359.15
+20150405,'Diego, Derrick',428.71,APHIS Farm Bill RC,58930.44
+20150405,'Diego, John',416.92,APHIS Farm Bill RC,58513.52
+20150405,'Hara, Marty',423.07,APHIS Farm Bill RC,58090.45
+20150405,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,57707.90
+20150405,'Somol, Donatus',393.84,APHIS Farm Bill RC,57314.06
+20150405,'Bourgeois, Robert',767.17,APHIS Metarhizium,543.76
+20150412,'Benavente, Vincent',512.81,APHIS Farm Bill RC,56801.25
+20150412,'Cabrera, Roland',393.84,APHIS Farm Bill RC,56407.41
+20150412,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,56024.85
+20150412,'Diego, Derrick',428.71,APHIS Farm Bill RC,55596.14
+20150412,'Diego, John',416.92,APHIS Farm Bill RC,55179.23
+20150412,'Hara, Marty',423.07,APHIS Farm Bill RC,54756.16
+20150412,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,54373.60
+20150412,'Somol, Donatus',393.84,APHIS Farm Bill RC,53979.76
+20150419,'Benavente, Vincent',512.81,APHIS Farm Bill RC,53466.95
+20150419,'Cabrera, Roland',393.84,APHIS Farm Bill RC,53073.11
+20150419,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,52690.55
+20150419,'Diego, Derrick',428.71,APHIS Farm Bill RC,52261.84
+20150419,'Diego, John',416.92,APHIS Farm Bill RC,51844.93
+20150419,'Hara, Marty',423.07,APHIS Farm Bill RC,51421.86
+20150419,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,51039.30
+20150419,'Somol, Donatus',393.84,APHIS Farm Bill RC,50645.46
+20150426,'Benavente, Vincent',512.81,APHIS Farm Bill RC,50132.65
+20150426,'Cabrera, Roland',393.84,APHIS Farm Bill RC,49738.81
+20150426,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,49356.26
+20150426,'Diego, Derrick',428.71,APHIS Farm Bill RC,48927.55
+20150426,'Diego, John',416.92,APHIS Farm Bill RC,48510.63
+20150426,'Hara, Marty',423.07,APHIS Farm Bill RC,48087.56
+20150426,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,47705.01
+20150426,'Somol, Donatus',393.84,APHIS Farm Bill RC,47311.17
+20150503,'Benavente, Vincent',512.81,APHIS Farm Bill RC,46798.36
+20150503,'Cabrera, Roland',393.84,APHIS Farm Bill RC,46404.52
+20150503,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,46021.96
+20150503,'Diego, Derrick',428.71,APHIS Farm Bill RC,45593.25
+20150503,'Diego, John',416.92,APHIS Farm Bill RC,45176.33
+20150503,'Hara, Marty',423.07,APHIS Farm Bill RC,44753.26
+20150503,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,44370.71
+20150503,'Somol, Donatus',393.84,APHIS Farm Bill RC,43976.87
+20150510,'Benavente, Vincent',512.81,APHIS Farm Bill RC,43464.06
+20150510,'Cabrera, Roland',393.84,APHIS Farm Bill RC,43070.22
+20150510,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,42687.66
+20150510,'Diego, Derrick',428.71,APHIS Farm Bill RC,42258.95
+20150510,'Diego, John',416.92,APHIS Farm Bill RC,41842.04
+20150510,'Hara, Marty',423.07,APHIS Farm Bill RC,41418.97
+20150510,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,41036.41
+20150510,'Somol, Donatus',393.84,APHIS Farm Bill RC,40642.57
+20150517,'Benavente, Vincent',512.81,APHIS Farm Bill RC,40129.76
+20150517,'Cabrera, Roland',393.84,APHIS Farm Bill RC,39735.92
+20150517,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,39353.37
+20150517,'Diego, Derrick',428.71,APHIS Farm Bill RC,38924.66
+20150517,'Diego, John',416.92,APHIS Farm Bill RC,38507.74
+20150517,'Hara, Marty',423.07,APHIS Farm Bill RC,38084.67
+20150517,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,37702.11
+20150517,'Somol, Donatus',393.84,APHIS Farm Bill RC,37308.27
+20150524,'Benavente, Vincent',512.81,APHIS Farm Bill RC,36795.46
+20150524,'Cabrera, Roland',393.84,APHIS Farm Bill RC,36401.62
+20150524,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,36019.07
+20150524,'Diego, Derrick',428.71,APHIS Farm Bill RC,35590.36
+20150524,'Diego, John',416.92,APHIS Farm Bill RC,35173.44
+20150524,'Hara, Marty',423.07,APHIS Farm Bill RC,34750.37
+20150524,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,34367.82
+20150524,'Somol, Donatus',393.84,APHIS Farm Bill RC,33973.98
+20150531,'Benavente, Vincent',512.81,APHIS Farm Bill RC,33461.17
+20150531,'Cabrera, Roland',393.84,APHIS Farm Bill RC,33067.33
+20150531,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,32684.77
+20150531,'Diego, Derrick',428.71,APHIS Farm Bill RC,32256.06
+20150531,'Diego, John',416.92,APHIS Farm Bill RC,31839.15
+20150531,'Hara, Marty',423.07,APHIS Farm Bill RC,31416.08
+20150531,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,31033.52
+20150531,'Somol, Donatus',393.84,APHIS Farm Bill RC,30639.68
+20150607,'Benavente, Vincent',512.81,APHIS Farm Bill RC,30126.87
+20150607,'Cabrera, Roland',393.84,APHIS Farm Bill RC,29733.03
+20150607,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,29350.47
+20150607,'Diego, Derrick',428.71,APHIS Farm Bill RC,28921.76
+20150607,'Diego, John',416.92,APHIS Farm Bill RC,28504.85
+20150607,'Hara, Marty',423.07,APHIS Farm Bill RC,28081.78
+20150607,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,27699.22
+20150607,'Somol, Donatus',393.84,APHIS Farm Bill RC,27305.38
+20150614,'Benavente, Vincent',512.81,APHIS Farm Bill RC,26792.57
+20150614,'Cabrera, Roland',393.84,APHIS Farm Bill RC,26398.73
+20150614,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,26016.18
+20150614,'Diego, Derrick',428.71,APHIS Farm Bill RC,25587.47
+20150614,'Diego, John',416.92,APHIS Farm Bill RC,25170.55
+20150614,'Hara, Marty',423.07,APHIS Farm Bill RC,24747.48
+20150614,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,24364.93
+20150614,'Somol, Donatus',393.84,APHIS Farm Bill RC,23971.09
+20150621,'Benavente, Vincent',512.81,APHIS Farm Bill RC,23458.28
+20150621,'Cabrera, Roland',393.84,APHIS Farm Bill RC,23064.44
+20150621,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,22681.88
+20150621,'Diego, Derrick',428.71,APHIS Farm Bill RC,22253.17
+20150621,'Diego, John',416.92,APHIS Farm Bill RC,21836.25
+20150621,'Hara, Marty',423.07,APHIS Farm Bill RC,21413.19
+20150621,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,21030.63
+20150621,'Somol, Donatus',393.84,APHIS Farm Bill RC,20636.79
+20150628,'Benavente, Vincent',512.81,APHIS Farm Bill RC,20123.98
+20150628,'Cabrera, Roland',393.84,APHIS Farm Bill RC,19730.14
+20150628,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,19347.58
+20150628,'Diego, Derrick',428.71,APHIS Farm Bill RC,18918.87
+20150628,'Diego, John',416.92,APHIS Farm Bill RC,18501.96
+20150628,'Hara, Marty',423.07,APHIS Farm Bill RC,18078.89
+20150628,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,17696.33
+20150628,'Somol, Donatus',393.84,APHIS Farm Bill RC,17302.49
+20150705,'Benavente, Vincent',512.81,APHIS Farm Bill RC,16789.68
+20150705,'Cabrera, Roland',393.84,APHIS Farm Bill RC,16395.84
+20150705,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,16013.29
+20150705,'Diego, Derrick',428.71,APHIS Farm Bill RC,15584.58
+20150705,'Diego, John',416.92,APHIS Farm Bill RC,15167.66
+20150705,'Hara, Marty',423.07,APHIS Farm Bill RC,14744.59
+20150705,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,14362.03
+20150705,'Somol, Donatus',393.84,APHIS Farm Bill RC,13968.19
+20150712,'Benavente, Vincent',512.81,APHIS Farm Bill RC,13455.38
+20150712,'Cabrera, Roland',393.84,APHIS Farm Bill RC,13061.55
+20150712,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,12678.99
+20150712,'Diego, Derrick',428.71,APHIS Farm Bill RC,12250.28
+20150712,'Diego, John',416.92,APHIS Farm Bill RC,11833.36
+20150712,'Hara, Marty',423.07,APHIS Farm Bill RC,11410.29
+20150712,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,11027.74
+20150712,'Somol, Donatus',393.84,APHIS Farm Bill RC,10633.90
+20150719,'Benavente, Vincent',512.81,APHIS Farm Bill RC,10121.09
+20150719,'Cabrera, Roland',393.84,APHIS Farm Bill RC,9727.25
+20150719,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,9344.69
+20150719,'Diego, Derrick',428.71,APHIS Farm Bill RC,8915.98
+20150719,'Diego, John',416.92,APHIS Farm Bill RC,8499.07
+20150719,'Hara, Marty',423.07,APHIS Farm Bill RC,8076.00
+20150719,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,7693.44
+20150719,'Somol, Donatus',393.84,APHIS Farm Bill RC,7299.60
+20150726,'Benavente, Vincent',512.81,APHIS Farm Bill RC,6786.79
+20150726,'Cabrera, Roland',393.84,APHIS Farm Bill RC,6392.95
+20150726,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,6010.39
+20150726,'Diego, Derrick',428.71,APHIS Farm Bill RC,5581.68
+20150726,'Diego, John',416.92,APHIS Farm Bill RC,5164.77
+20150726,'Hara, Marty',423.07,APHIS Farm Bill RC,4741.70
+20150726,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,4359.14
+20150726,'Somol, Donatus',393.84,APHIS Farm Bill RC,3965.30
+20150802,'Benavente, Vincent',512.81,APHIS Farm Bill RC,3452.49
+20150802,'Cabrera, Roland',393.84,APHIS Farm Bill RC,3058.65
+20150802,'Crisostomo, Cris',382.56,APHIS Farm Bill RC,2676.10
+20150802,'Diego, Derrick',428.71,APHIS Farm Bill RC,2247.39
+20150802,'Diego, John',416.92,APHIS Farm Bill RC,1830.47
+20150802,'Hara, Marty',423.07,APHIS Farm Bill RC,1407.40
+20150802,'San Miguel, Raymundo',382.56,APHIS Farm Bill RC,1024.85
+20150802,'Somol, Donatus',393.84,APHIS Farm Bill RC,631.01
